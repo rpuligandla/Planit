@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18381" started-at="2019-09-29T15:58:59 NZDT" finished-at="2019-09-29T15:59:18 NZDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18381" started-at="2019-09-29T15:58:59 NZDT" finished-at="2019-09-29T15:59:18 NZDT">
+      <class name="Planit_Tests.contact_test">
+        <test-method status="PASS" signature="extentreport()[pri:0, instance:Planit_Tests.contact_test@3a5ed7a6]" name="extentreport" is-config="true" duration-ms="166" started-at="2019-09-29T15:58:59 NZDT" finished-at="2019-09-29T15:58:59 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentreport -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Planit_Tests.contact_test@3a5ed7a6]" name="beforeTest" is-config="true" duration-ms="12035" started-at="2019-09-29T15:58:59 NZDT" finished-at="2019-09-29T15:59:11 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:1, instance:Planit_Tests.contact_test@3a5ed7a6]" name="verifyHomepageTitle" duration-ms="27" started-at="2019-09-29T15:59:11 NZDT" description="Test Page title" finished-at="2019-09-29T15:59:11 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Planit_Tests.contact_test@3a5ed7a6]" name="afterMethod" is-config="true" duration-ms="563" started-at="2019-09-29T15:59:11 NZDT" finished-at="2019-09-29T15:59:12 NZDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyHomepageTitle status=SUCCESS method=contact_test.verifyHomepageTitle()[pri:1, instance:Planit_Tests.contact_test@3a5ed7a6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="contact_page()[pri:2, instance:Planit_Tests.contact_test@3a5ed7a6]" name="contact_page" duration-ms="3387" started-at="2019-09-29T15:59:12 NZDT" description="Test contact us page" finished-at="2019-09-29T15:59:15 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact_page -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Planit_Tests.contact_test@3a5ed7a6]" name="afterMethod" is-config="true" duration-ms="96" started-at="2019-09-29T15:59:15 NZDT" finished-at="2019-09-29T15:59:15 NZDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=contact_page status=SUCCESS method=contact_test.contact_page()[pri:2, instance:Planit_Tests.contact_test@3a5ed7a6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="createNewAccount()[pri:3, instance:Planit_Tests.contact_test@3a5ed7a6]" name="createNewAccount" duration-ms="1949" started-at="2019-09-29T15:59:15 NZDT" description="Test new user creation" finished-at="2019-09-29T15:59:17 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewAccount -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Planit_Tests.contact_test@3a5ed7a6]" name="afterMethod" is-config="true" duration-ms="105" started-at="2019-09-29T15:59:17 NZDT" finished-at="2019-09-29T15:59:17 NZDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createNewAccount status=SUCCESS method=contact_test.createNewAccount()[pri:3, instance:Planit_Tests.contact_test@3a5ed7a6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Planit_Tests.contact_test@3a5ed7a6]" name="afterTest" is-config="true" duration-ms="158" started-at="2019-09-29T15:59:17 NZDT" description="Test ENDs here" finished-at="2019-09-29T15:59:18 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Planit_Tests.contact_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
